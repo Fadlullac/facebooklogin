@@ -1,0 +1,32 @@
+
+.div1{
+    background: #3b5998;
+    width: 100%;
+    height: 80px;
+    color: hsl(216, 14%, 93%);
+    text-align: center;
+}
+
+.main{
+
+}
+
+.div2{
+    margin: 8px 500px 8px;
+    background-color: aquamarine;
+}
+
+.login{
+    text-align: center;
+    background-color:#ffffff ;
+}
+.submit1{
+    padding: 12px 80px;
+}   
+    
+
+input{
+    padding: 12px 80px;
+    margin: 8px 4px 8px;
+    box-sizing: border-box;
+}
